@@ -44,7 +44,7 @@ Desde o início da minha trajetória acadêmica e profissional, sempre acreditei
 
 ## 📫 Vamos nos conectar?
 
-- 💼 [LinkedIn][linkedin.com/in/pedro-guarnier-76b4a21a9]
+- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-guarnier-76b4a21a9)
 - 💌 Email: pedroguarnier07@gmail.com
 - 📁 Portfólio (em breve!)
 
