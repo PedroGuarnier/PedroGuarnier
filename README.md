@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mim
 
-Desde o início da minha trajetória acadêmica e profissional, sempre acreditei que a tecnologia é uma ferramenta poderosa para transformar ideias em soluções reais. Atualmente, atuo como HelpDesk, mas estou constantemente expandindo minhas habilidades em **front-end**, **back-end**, **banco de dados** e **ciência de dados**.
+Desde o início da minha trajetória acadêmica e profissional, sempre acreditei que a tecnologia é uma ferramenta poderosa para transformar ideias em soluções reais. Atualmente, atuo como HelpDesk e Desenvolvedor, mas estou constantemente expandindo minhas habilidades em **front-end**, **back-end**, **banco de dados** e **ciência de dados**.
 
 🧠 Sempre estudando temas como:
 - Desenvolvimento Web Moderno (HTML, CSS, JS, React)
