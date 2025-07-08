@@ -31,6 +31,7 @@ Desde o início da minha trajetória acadêmica e profissional, sempre acreditei
 ## 🌱 Projetos em andamento
 
 - 💼 [Site Institucional Zveiter](https://github.com/PedroGuarnier/SiteZveiter): Design moderno, responsivo e repleto de funcionalidades avançadas.
+- 💼 [HelpDeskPro](https://github.com/PedroGuarnier/helpdeskpro): Plataforma para facilitar atendimento HelpDesk
 
 
 ---
