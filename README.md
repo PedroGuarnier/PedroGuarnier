@@ -3,7 +3,7 @@
 🎓 Estudante de **Ciência da Computação** na **FAM**  
 💻 Estagiário de TI no **Escritório de Advocacia Zveiter**  
 🚀 Em busca constante de novos conhecimentos e desafios no mundo da **tecnologia** e **programação**  
-🌎 Apaixonado por desenvolvimento web, design funcional e soluções que impactam vidas
+🌎  Especialista em desenvolvimento web, design funcional e soluções que impactam 
 
 ---
 
