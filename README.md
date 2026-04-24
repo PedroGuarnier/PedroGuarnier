@@ -1,60 +1,44 @@
-# 👋 Olá, eu sou o Pedro!
+# Pedro Guarnier
 
-🎓 Estudante de **Ciência da Computação** na **FAM**  
-💻 Estagiário de TI no **Escritório de Advocacia Zveiter**  
-🚀 Em busca constante de novos conhecimentos e desafios no mundo da **tecnologia** e **programação**  
-🌎  Especialista em desenvolvimento web, design funcional e soluções que impactam 
+**IT & Development Analyst** at Escritório de Advocacia Zveiter, Rio de Janeiro.
 
----
-
-## 🚀 Sobre mim
-
-Desde o início da minha trajetória acadêmica e profissional, sempre acreditei que a tecnologia é uma ferramenta poderosa para transformar ideias em soluções reais. Atualmente, atuo como HelpDesk e Desenvolvedor, mas estou constantemente expandindo minhas habilidades em **front-end**, **back-end**, **banco de dados** e **ciência de dados**.
-
-🧠 Sempre estudando temas como:
-- Desenvolvimento Web Moderno (HTML, CSS, JS, React)
-- Banco de Dados Relacional e Diagramas ER
-- Ciência de Dados e Python
-- Infraestrutura e suporte técnico
-- UX/UI design e animações com CSS
+I build backend systems, internal tools, and full-stack applications — all used in production.
 
 ---
 
-## 💼 Experiência atual
+## Projects
 
-> **Escritório de Advocacia Zveiter**  
-> _Estagiário de TI (HelpDesk)_  
-> Atuo prestando suporte técnico aos colaboradores, gerenciando chamados, manutenção preventiva e corretiva em estações de trabalho, além de colaborar com o desenvolvimento e manutenção do site institucional do escritório.
+**[EAZ Chamados](https://github.com/PedroGuarnier/eaz-chamados)** — `C#` `ASP.NET Core 8` `Entity Framework Core` `SQLite`
+Internal IT ticketing system replacing informal WhatsApp-based support for ~30 users. Features ticket submission, technician panel, urgency stats and status tracking.
 
----
+**Judicial Process Monitoring Agent** — `Python` `FastAPI` `Next.js` `TypeScript` `WebSocket` `AWS`
+Backend agent that classifies judicial process events by urgency and streams updates to a real-time dashboard via WebSocket. Deployed on AWS.
 
-## 🌱 Projetos em andamento
+**Custas Diárias Dashboard** — `JavaScript` `PostgreSQL` `Supabase` `HTML` `CSS`
+Court-fee tracking dashboard with client balance views, PDF export and full mobile responsiveness. Used daily by the legal team.
 
-- 💼 [Site Institucional Zveiter](https://github.com/PedroGuarnier/SiteZveiter): Design moderno, responsivo e repleto de funcionalidades avançadas.
-- 💼 [HelpDeskPro](https://github.com/PedroGuarnier/helpdeskpro): Plataforma para facilitar atendimento HelpDesk
-
-
----
-
-## 💡 Habilidades
-💻 Linguagens: HTML | CSS | JavaScript | Python
-🧠 Ferramentas: Git | GitHub | VS Code | Figma
-🌐 Web: React | TailwindCSS | Bootstrap
-🛠️ Suporte Técnico: HelpDesk | Windows | Redes
-📊 Banco de Dados: MySQL | SQLite | ER Diagrams
-
-## 📫 Vamos nos conectar?
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/pedro-guarnier-76b4a21a9)
-- 💌 Email: pedroguarnier07@gmail.com
-- 📁 Portfólio (https://pedroguarnier.github.io/portfoliopedro/))
+**[EAZ Institutional Website](https://github.com/PedroGuarnier/SiteZveiter)** — `HTML` `CSS` `JavaScript` `SEO`
+Full institutional website built from scratch. Art Deco aesthetic, responsive layouts and structured data markup.
 
 ---
 
-## ✨ Curiosidades
+## Stack
 
-- 🎯 Foco em criar soluções úteis, rápidas e bonitas.
-- 🌱 Sempre aprendendo algo novo: cursos, tutoriais, prática.
-- 🤝 Aberto a colaborações, freelance e networking.
+**Back-end:** Python · FastAPI · C# · ASP.NET Core 8 · Node.js · REST APIs  
+**Front-end:** JavaScript · TypeScript · React · Next.js · HTML · CSS  
+**Data:** PostgreSQL · SQLite · Supabase · Entity Framework Core · SQL  
+**Cloud & Tools:** AWS · Git · WebSocket · Active Directory  
+**AI & LLM:** Claude API · Gemini · Prompt Engineering  
 
 ---
+
+## Education
+
+BSc Computer Science (Análise e Desenvolvimento de Sistemas) — Estácio de Sá  
+BSc Marketing — Estácio de Sá  
+
+---
+
+## Contact
+
+[linkedin.com/in/pedroguarnier](https://www.linkedin.com/in/pedroguarnier) · pedroguarnier07@gmail.com
