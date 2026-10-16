@@ -1,6 +1,6 @@
 # Pedro Guarnier
 
-**AI & Automation Developer** at Centro Médico Pastore, Rio de Janeiro · IT & Development contractor at Escritório de Advocacia Zveiter.
+**AI & Automation Developer** at Centro Médico Pastore, Rio de Janeiro 
 
 I build AI agents, automations and full-stack applications — all used in production, from a law firm to a healthcare network.
 
